@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\HW_02-03-20_PART_2_SUM_3\\HomeWork.csproj": {}
+    "C:\\HW_02-03-20_PART_2_SUM_3\\HomeWork.csproj": {}
   },
   "projects": {
-    "c:\\HW_02-03-20_PART_2_SUM_3\\HomeWork.csproj": {
+    "C:\\HW_02-03-20_PART_2_SUM_3\\HomeWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\HW_02-03-20_PART_2_SUM_3\\HomeWork.csproj",
+        "projectUniqueName": "C:\\HW_02-03-20_PART_2_SUM_3\\HomeWork.csproj",
         "projectName": "HomeWork",
-        "projectPath": "c:\\HW_02-03-20_PART_2_SUM_3\\HomeWork.csproj",
+        "projectPath": "C:\\HW_02-03-20_PART_2_SUM_3\\HomeWork.csproj",
         "packagesPath": "C:\\Users\\Programmer\\.nuget\\packages\\",
-        "outputPath": "c:\\HW_02-03-20_PART_2_SUM_3\\obj\\",
+        "outputPath": "C:\\HW_02-03-20_PART_2_SUM_3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Programmer\\AppData\\Roaming\\NuGet\\NuGet.Config",
